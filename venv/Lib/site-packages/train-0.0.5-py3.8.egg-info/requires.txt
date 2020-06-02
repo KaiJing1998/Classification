@@ -1,0 +1,8 @@
+numpy
+
+[examples]
+gym
+matplotlib
+
+[tests]
+pytest
